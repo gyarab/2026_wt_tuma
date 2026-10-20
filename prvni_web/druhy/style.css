@@ -1,9 +1,10 @@
 body {
     background-color: #c7c2c2;
     font-family: Arial, sans-serif;
+    color: black;
 }
 
 h1 {
-    color: red ;
+    color: rgb(53, 28, 28) ;
     text-align: center;
 }
