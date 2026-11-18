@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Clicker</h1>
+    
+    <h2>clicks: 
+        <span id="counter">0</span>
+    </h2>
+    <button onclick="addCnt();">Click me</button>
+    <button onclick="resetCnt();">Reset</button>
+</body>
+<script>
+    let count = 0;
+
+    function updateCnt() {
+        document.getElementById("counter").textContent = count;
+    }
+
+    function addCnt() {
+        count++;
+        updateCnt();
+    }
+
+    function resetCnt() {
+        count = 0;
+        updateCnt();
+    }
+
+</script>
+</html>
