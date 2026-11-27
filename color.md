@@ -16,3 +16,4 @@ Podle mého názoru je červená barva pro společnost Canon vhodnou volbou, pro
 ## Zdroje
 
 - [Oficiální stránky Canon](https://global.canon/en/corporate/logo/index.html)
+- [Psychologie barev](https://www.jdsd.in/color-psychology-understanding-the-impact-of-color-on-emotions-and-behavior/)
